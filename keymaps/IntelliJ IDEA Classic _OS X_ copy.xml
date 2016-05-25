@@ -1,10 +1,14 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta g" />

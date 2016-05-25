@@ -9,6 +9,9 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
@@ -39,4 +42,5 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.UpdateProject" />
 </keymap>

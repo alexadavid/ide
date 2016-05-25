@@ -1,0 +1,39 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4848fab2-c6c3-4598-a4f1-f7c9e5bb31c3" name="netopeerWebgui" url="http://sauvignon.liberouter.org/symfony">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f9a5dbed-c3c0-4c3c-bd9a-6c4f5899a5ef" name="verde" url="http://verde.liberouter.org/netconfwebgui">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e926be93-cfee-4fb2-a098-c68926abe1a4" name="apache_tupy" url="http://apache/www.simplyrent-david.cz">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3e562e70-f2ce-4b3e-95bb-33798e21e0b4" name="localhost" url="http://localhost:8888">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6d3ec008-abb6-4a5c-b919-ab36f7ed5b77" name="tupy" url="http://apache">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="5125706a-08aa-4705-97fd-bba6395d2ad2" name="tonda" url="http://tonda">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="78a94e2f-36cc-4481-aa05-40e3e283742e" name="arsenic" url="http://arsenic.funlife.cz">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="baf15631-556a-403a-b89a-1596d5b786fc" name="localhost (1)" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="79c7e8a8-a06a-4078-aea7-2c1bbf4c66d9" name="garnacha" url="https://garnacha.liberouter.org/netconfwebgui">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="88ba768d-48cd-431f-a5a9-1a7965e57f3e" name="obuvsotek_devel" url="http://www.obuvsotek.cz.devel">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ed0c258f-6a0d-4807-beb7-19bcf68bafd9" name="nadomaanaven" url="http://www.nadomaanaven.cz.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

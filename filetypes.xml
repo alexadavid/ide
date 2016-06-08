@@ -2,15 +2,14 @@
   <component name="FileTypeManager" version="16">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <removed_mapping ext="latte" type="Latte file" />
       <mapping pattern="RssService" type="PHP" />
       <mapping pattern="ApiKeyAuthenticator.php" type="PLAIN_TEXT" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="nt" type="PLAIN_TEXT" />
-      <mapping pattern="*.latte.php" type="Smarty" />
       <mapping ext="latte" type="Smarty" />
+      <mapping pattern="*.latte.php" type="Smarty" />
     </extensionMap>
   </component>
 </application>

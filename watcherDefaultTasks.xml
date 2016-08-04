@@ -13,7 +13,6 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="passParentEnvs" value="true" />
       <option name="program" value="/usr/local/bin/scss" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
@@ -33,31 +32,29 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="passParentEnvs" value="true" />
       <option name="program" value="/usr/bin/compass" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="/Volumes/sauvignon/var/www/netopeergui/src/FIT/NetopeerBundle/Resources/public" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile /Library/WebServer/Documents/netopeerangular/css $UnixSeparators($FilePath$)$" />
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="compile /Volumes/www/tests/dalexa/netreal2/src/Netreal/TestBundle/Resources/public $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files using compass" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="/Library/WebServer/Documents/netopeerangular/css" />
+      <option name="output" value="/Volumes/www/tests/dalexa/netreal2/src/Netreal/TestBundle/Resources/public" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="passParentEnvs" value="true" />
       <option name="program" value="/usr/local/bin/compass" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="/Library/WebServer/Documents/netopeerangular/css" />
+      <option name="workingDir" value="/Volumes/www/tests/dalexa/netreal2/src/Netreal/CoreBundle/Resources/public" />
       <envs />
     </TaskOptions>
   </component>

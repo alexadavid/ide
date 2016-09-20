@@ -9,6 +9,7 @@
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="nt" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping pattern="*.latte.php" type="Smarty" />
       <mapping ext="latte" type="Smarty" />
     </extensionMap>

@@ -14,7 +14,7 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping pattern="*.latte.php" type="Smarty" />
       <mapping ext="latte" type="Smarty" />
-      <removed_mapping ext="tpl" approved="true" type="Smarty" />
+      <removed_mapping ext="tpl" type="Smarty" />
     </extensionMap>
   </component>
 </application>

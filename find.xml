@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '/Volumes/www/eshop2/class/entity/OrderEntity.class.php - [www.highlife2.cz]'" />
-    <option name="defaultScopeName" value="File '/Volumes/www/eshop2/class/entity/OrderEntity.class.php - [www.highlife2.cz]'" />
+    <option name="customScope" value="Directory '/Volumes/www/eshop/vendor/ondrejnov - [www.highlife.cz]'" />
+    <option name="defaultScopeName" value="Directory '/Volumes/www/eshop/vendor/ondrejnov - [www.highlife.cz]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Volumes/www/eshop2/class/entity/OrderEntity.class.php - [www.highlife2.cz]'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Volumes/www/eshop/vendor/ondrejnov - [www.highlife.cz]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>

@@ -1,7 +1,7 @@
 <application>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration />
+      <PhpCSConfiguration standards="FunlifeSymfony;FunlifeZend;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Symfony2;Zend" tool_path="$USER_HOME$/Documents/codestyle/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
 </application>

@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Volumes/www/tests/dalexa/eshop2/class/Controller/Frontend/BaseController.php - [www.highlife2.cz]'" />
-    <option name="defaultScopeName" value="File '/Volumes/www/tests/dalexa/eshop2/class/Controller/Frontend/BaseController.php - [www.highlife2.cz]'" />
-    <option name="SEARCH_SCOPE" value="File '/Volumes/www/tests/dalexa/eshop2/class/Controller/Frontend/BaseController.php - [www.highlife2.cz]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>

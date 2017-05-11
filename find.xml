@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../class - [www.highlife2.cz]'" />
-    <option name="defaultScopeName" value="Directory '.../class - [www.highlife2.cz]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../class - [www.highlife2.cz]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>

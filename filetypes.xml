@@ -17,6 +17,7 @@
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="overrides" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="*.latte.php" type="Smarty" />
       <mapping ext="latte" type="Smarty" />

@@ -8,11 +8,10 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="272db35f-3ed9-4805-85e2-ab6501b4d3b8" name="arsenic (1)" url="http://arsenic.funlife.cz">
-        <fileTransfer host="utility.funlife.cz" port="22222" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www/arsenic" accessType="SFTP" keyPair="true" username="dalexa">
+        <fileTransfer host="utility.funlife.cz" port="22222" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www/arsenic" accessType="SFTP" username="dalexa" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22222" />
         </fileTransfer>
       </webServer>
     </option>

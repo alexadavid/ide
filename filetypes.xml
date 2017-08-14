@@ -1,28 +1,27 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="16">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="*.latte*" type="Latte file" />
-      <mapping pattern="*.tpl*" type="Latte file" />
-      <removed_mapping ext="latte" type="Latte file" />
       <mapping pattern="EntityManagerTrait" type="PHP" />
       <mapping pattern="RssService" type="PHP" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
-      <mapping pattern="ApiKeyAuthenticator.php" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
+      <mapping pattern="ApiKeyAuthenticator.php" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="nt" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="back" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="overrides" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="*.latte.php" type="Smarty" />
       <mapping ext="latte" type="Smarty" />
       <removed_mapping ext="tpl" type="Smarty" />
       <mapping ext="aws" type="YAML" />
+      <mapping pattern="*.latte*" type="Latte file" />
+      <mapping pattern="*.tpl*" type="Latte file" />
     </extensionMap>
   </component>
 </application>

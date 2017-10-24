@@ -8,6 +8,7 @@
       <mapping pattern="EntityManagerTrait" type="PHP" />
       <mapping pattern="RssService" type="PHP" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ApiKeyAuthenticator.php" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />

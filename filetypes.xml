@@ -20,6 +20,7 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="nt" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping pattern="*.latte.php" type="Smarty" />
       <mapping ext="aws" type="YAML" />

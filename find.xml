@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../kd_includes/functions.php [keydevtheme]'" />
-    <option name="defaultScopeName" value="File '.../kd_includes/functions.php [keydevtheme]'" />
-    <option name="SEARCH_SCOPE" value="File '.../kd_includes/functions.php [keydevtheme]'" />
+    <option name="customScope" value="Project 'keydevtheme'" />
+    <option name="defaultScopeName" value="Project 'keydevtheme'" />
+    <option name="SEARCH_SCOPE" value="Project 'keydevtheme'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>

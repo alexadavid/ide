@@ -1,5 +1,5 @@
 <templateSet group="custom">
-  <template name="trans" value="&lt;span translate&gt;{{ '' }}&lt;/span&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="trans" value="&lt;span translate=&quot;&quot;&gt;&lt;/span&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>

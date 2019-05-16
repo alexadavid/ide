@@ -1,7 +1,12 @@
 <templateSet group="custom">
-  <template name="trans" value="&lt;span translate=&quot;&quot;&gt;&lt;/span&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="tra" value="&lt;span translate=&quot;$END$&quot;&gt;&lt;/span&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="trans" value="$scope.trans['$END$']" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
     </context>
   </template>
 </templateSet>

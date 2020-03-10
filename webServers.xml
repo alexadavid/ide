@@ -23,6 +23,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="dc03b973-f828-4a51-b168-bfa3c2801f94" name="wp.funlife.cz" url="https://www.autostrz.cz">
+        <fileTransfer host="wp.funlife.cz" port="21" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

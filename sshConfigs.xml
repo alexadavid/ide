@@ -16,6 +16,7 @@
       <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="8871ea83-f99a-47bb-996b-4a66024e16cb" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="a5c409bd-80a9-40d8-b522-945aa06434f5" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="163ffd9c-bd4a-452c-b462-e62cc5cde4cd" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="0486aa43-a71c-4048-811c-c0afb624cd25" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>

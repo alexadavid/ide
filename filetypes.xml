@@ -7,9 +7,11 @@
       <mapping pattern="CartViewFactory" type="PHP" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local.api_test" type="PLAIN_TEXT" />
       <mapping pattern=".env_aws" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ApiKeyAuthenticator.php" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="engine" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="overrides" type="PLAIN_TEXT" />

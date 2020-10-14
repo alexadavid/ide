@@ -5,6 +5,18 @@
       <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="3013fca2-4981-4d67-823e-9b02cd1ef2f4" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="b0b9d439-0d8b-45f2-b979-65f0ac518a06" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="3b448df7-b2f3-46ae-94f4-9f1d01b08fb9" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="a5056c10-f2d2-4311-bece-8051a49177c8" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="8206f366-da1f-4f72-9169-2eee4e8d3b8a" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="c40b1dad-bfd6-4c9e-9044-787c4d053afa" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="8dc5869c-d174-4b6c-844a-81a25906017c" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="b503c6a6-4e73-4dad-8465-e530792019c6" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="7b80fe91-7126-493e-a424-f46397ca77c6" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="326a9bda-be57-4296-aaea-d6a77471c47b" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="2ce0715b-3059-4733-a0f9-a4fb10fc13b8" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="8871ea83-f99a-47bb-996b-4a66024e16cb" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="a5c409bd-80a9-40d8-b522-945aa06434f5" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="163ffd9c-bd4a-452c-b462-e62cc5cde4cd" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="posters.3sixty.local" id="0486aa43-a71c-4048-811c-c0afb624cd25" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>

@@ -5,6 +5,7 @@
       <mapping pattern="RssService" type="PHP" />
       <mapping pattern="EntityManagerTrait" type="PHP" />
       <mapping pattern="CartViewFactory" type="PHP" />
+      <mapping pattern=".aws/config" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern=".env_aws" type="PLAIN_TEXT" />
       <mapping pattern=".env.local.api_test" type="PLAIN_TEXT" />

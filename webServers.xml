@@ -1,0 +1,28 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="78a94e2f-36cc-4481-aa05-40e3e283742e" name="arsenic" url="http://arsenic.funlife.cz">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="88ba768d-48cd-431f-a5a9-1a7965e57f3e" name="obuvsotek_devel" url="http://www.obuvsotek.cz.devel">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="272db35f-3ed9-4805-85e2-ab6501b4d3b8" name="arsenic (1)" url="http://arsenic.funlife.cz">
+        <fileTransfer host="utility.funlife.cz" port="22222" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www/arsenic" accessType="SFTP" keyPair="true" username="dalexa">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d42292a4-485d-4f01-8868-25e5977af825" name="posters.3sixty.local" url="http://posters.3sixty.local">
+        <fileTransfer host="posters.3sixty.local" port="22" rootFolder="/home/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

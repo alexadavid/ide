@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="utility.funlife.cz" id="967ff4a0-0251-49a9-831b-f6b25e408981" keyPath="$USER_HOME$/.ssh/id_rsa" port="22222" customName="arsenic (1)" nameFormat="CUSTOM" username="dalexa">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="utility.funlife.cz" id="967ff4a0-0251-49a9-831b-f6b25e408981" keyPath="$USER_HOME$/.ssh/id_rsa" port="22222" customName="arsenic (1)" nameFormat="CUSTOM" username="dalexa">
         <option name="customName" value="arsenic (1)" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="posters.3sixty.local" id="3013fca2-4981-4d67-823e-9b02cd1ef2f4" port="22" customName="posters.3sixty.local" nameFormat="CUSTOM">

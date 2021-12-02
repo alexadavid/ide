@@ -27,9 +27,7 @@
       <mapping ext="nt" type="PLAIN_TEXT" />
       <mapping pattern="*.latte.php" type="Smarty" />
       <mapping ext="aws" type="YAML" />
-      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="xlf" approved="true" type="XML" />
       <mapping pattern="*.latte*" type="Latte file" />
       <mapping pattern="*.tpl*" type="Latte file" />

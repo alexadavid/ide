@@ -1,19 +1,19 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
-      <mapping pattern="RssService" type="PHP" />
       <mapping pattern="EntityManagerTrait" type="PHP" />
+      <mapping pattern="RssService" type="PHP" />
       <mapping pattern="CartViewFactory" type="PHP" />
-      <mapping pattern=".aws/config" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern=".env_aws" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local.api_test" type="PLAIN_TEXT" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="ApiKeyAuthenticator.php" type="PLAIN_TEXT" />
+      <mapping pattern=".env_aws" type="PLAIN_TEXT" />
+      <mapping pattern=".aws/config" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
-      <mapping pattern="ApiKeyAuthenticator.php" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local.api_test" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />

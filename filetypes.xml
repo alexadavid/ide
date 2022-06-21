@@ -7,6 +7,7 @@
       <mapping pattern="CartViewFactory" type="PHP" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="ApiKeyAuthenticator.php" type="PLAIN_TEXT" />
       <mapping pattern=".env_aws" type="PLAIN_TEXT" />
       <mapping pattern=".aws/config" type="PLAIN_TEXT" />

@@ -1,5 +1,14 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.funlife.cz" />
+          <token>dfd9dfdbdfdfdff5df9ddf99dfcfdf99df98dfc9dfc9df9bdf9adf99dfc9df9edf9adfc9df98dfcedf93dfccdf98dfcfdfcbdf9adfcfdf99df9cdf99dfc9df99df99df9cdfcedfcfdfcfdf9edfc9dfcedf99dfccdfcfdf98</token>
+          <option name="name" value="Funlife" />
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>

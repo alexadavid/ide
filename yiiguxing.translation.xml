@@ -1,9 +1,15 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673607475264" />
+    <option name="lastTrimTime" value="1676037874965" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CZECH" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogX" value="1115" />
+    <option name="newTranslationDialogY" value="665" />
     <histories>
+      <item value="Pokud si přejete zvýšit současný limit transakcí, vyplňte prosím &lt;a href=&quot;%url%&quot;&gt;prohlášení o původu peněžních prostředků&lt;a&gt; a následně vyčkejte na potvrzení a navýšení limitu.&lt;br&gt;&lt;br&gt;&lt;div class=&quot;text-right&quot;&gt;&lt;a href=&quot;%url%&quot; class=&quot;btn btn-info&quot;&gt;Vyplnit prohlášení a navýšit limit&lt;a&gt;&lt;div&gt;" />
       <item value="pro příjem ověřovacího kódu" />
       <item value="Potřebujete změnit telefonní číslo" />
       <item value="Prohlášení o původu peněžních prostředků se neuložilo. Pravděpodobně je prázdné" />
@@ -33,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CZECH" value="26" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CZECH" value="27" />
+        <entry key="ENGLISH" value="27" />
         <entry key="UKRAINIAN" value="1" />
       </map>
     </option>

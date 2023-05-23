@@ -1,0 +1,48 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1676037874965" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CZECH" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogX" value="1115" />
+    <option name="newTranslationDialogY" value="665" />
+    <histories>
+      <item value="Pokud si přejete zvýšit současný limit transakcí, vyplňte prosím &lt;a href=&quot;%url%&quot;&gt;prohlášení o původu peněžních prostředků&lt;a&gt; a následně vyčkejte na potvrzení a navýšení limitu.&lt;br&gt;&lt;br&gt;&lt;div class=&quot;text-right&quot;&gt;&lt;a href=&quot;%url%&quot; class=&quot;btn btn-info&quot;&gt;Vyplnit prohlášení a navýšit limit&lt;a&gt;&lt;div&gt;" />
+      <item value="pro příjem ověřovacího kódu" />
+      <item value="Potřebujete změnit telefonní číslo" />
+      <item value="Prohlášení o původu peněžních prostředků se neuložilo. Pravděpodobně je prázdné" />
+      <item value="nelze přepnout do požadovaného stavu" />
+      <item value="Stav prohlášení úspěšně přepnut" />
+      <item value="Nelze vyhodnotit" />
+      <item value="Limity transakcí" />
+      <item value="Úroveň prohlášení" />
+      <item value="Výše transakce přesahuje maximální dostupný limit" />
+      <item value="Klient odeslal rozšířené AML" />
+      <item value="Výše příjmu" />
+      <item value="Roční" />
+      <item value="Měsíční" />
+      <item value="Jednorázový" />
+      <item value="Frekvence příjmu" />
+      <item value="Údaje k prodeji majetku, dědictví nebo k jinému zdroji peněžních prostředků" />
+      <item value="Uveďte převažující původ peněžních prostředků" />
+      <item value="Jiný zdroj" />
+      <item value="Dědictví" />
+      <item value="Prodej majetku" />
+      <item value="Příjem uvedený výše" />
+      <item value="Převažující původ peněžních prostředků, které budou vkládány na elektronickou peněženku" />
+      <item value="Nad 1 milion" />
+      <item value="5 milionů" />
+      <item value="Do 250 tisíc Kč" />
+      <item value="Roční výše čistého příjmu" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CZECH" value="27" />
+        <entry key="ENGLISH" value="27" />
+        <entry key="UKRAINIAN" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

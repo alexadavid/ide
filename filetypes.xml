@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
+      <mapping pattern="gulp-gril" type="AUTO_DETECTED" />
       <mapping pattern="RssService" type="PHP" />
       <mapping pattern="CartViewFactory" type="PHP" />
       <mapping pattern="EntityManagerTrait" type="PHP" />

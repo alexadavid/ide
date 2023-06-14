@@ -30,7 +30,6 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="nt" type="PLAIN_TEXT" />
       <mapping pattern="*.latte.php" type="Smarty" />
-      <mapping ext="tsv" type="TSV" />
       <mapping ext="aws" type="YAML" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />

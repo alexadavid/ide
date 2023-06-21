@@ -10,7 +10,6 @@
     <option name="SPACE_BEFORE_SEPARATOR" value="true" />
     <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
     <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
-    <option name="TABULARIZE" value="false" />
   </CsvCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
@@ -18,9 +17,12 @@
     <option name="FIELDS_DEFAULT_VISIBILITY" value="protected" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </ScssCodeStyleSettings>
   <XML>
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="HTML">
     <indentOptions>
